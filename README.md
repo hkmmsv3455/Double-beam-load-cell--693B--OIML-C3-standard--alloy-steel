@@ -1,0 +1,4 @@
+Double-beam-load-cell--693B--OIML-C3-standard--alloy-steel
+==========================================================
+
+PARAMETER UNIT TECHNICAL DATA Rated capacity (Emax) Klb 25/40/50/60/75/100/125/150/200 Accuracy class C3Sensitivity mV/V 3.0 ±0.003 Zero balance mV/V0.03Creep over 30min %0.02Temperature effect on zero %/ 0.004Temperature effect on output %/ 0.0014Hysteresis % 0.017Linearity deviation % 0.017Repeatability % 0.017Nominal temperature range -10 to +40 Service temperature range -30 to +65 Limit load % of R.C. 120Break load % of R.C. 150Nominal excitation V 5~12 Max. excitation V 18Input impedance 700 ±7 Output impedance 703± 4 Insulation resistance M 5000 Cable length M 9Cable type 4 conductors, Braid Shielded, Black PVC Jacket Color code +Exc -Red, +Sig-grn, -Exc-Blk, -Sig- Wht Edit Texthttp://www.hzloadcell.com/pid11486948/Double+beam+load+cell%2c+693B%2c+OIML+C3+standard%2c+alloy+steel.htm
